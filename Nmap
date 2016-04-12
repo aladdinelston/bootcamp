@@ -1,0 +1,8 @@
+Nmap
+
+Nmap is the Swiss Army knife of network reconnaissance and penetration testing. Used by system administrators and hackers alike, the tool can be used for a variety of tasks ranging from network reconnaissance to discovery of what services are on offer. Nmap is available on most distributions with little configuration,  you can download the binary here: https://nmap.org/ alternatively you can you install Nmap on your system using the following commands: 
+
+•	sudo apt-get install nmap
+•	yum install nmap -y
+
+Nmap has a rich feature set including target specification, service and version detection, script scanning, OS detection, timing and performance, firewall / IDS evasion and spoofing techniques, scan output and miscellaneous options. Below is a brief introduction for each of the options followed by the Nmap usage help file which will give you some more detail. For further information, options and examples check out the Nmap MAN page: (https://nmap.org/book/man.html)
